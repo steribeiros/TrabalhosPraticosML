@@ -3,9 +3,13 @@ Trabalhos práticos realizados para a disciplina de Machine Learning.
 
 O primeiro trabalho consiste no treinamento de modelos KNN com diferentes valores de k para realizar predições.
 Tecnologias: Python, Pandas, Numpy, Matplotlib, Scikit-learn 
+
 •	Dataset Airlines Traffic Passenger Statistic | https://www.kaggle.com/datasets/thedevastator/airlines-traffic-passenger-statistics
+
 •	Foram realizados três tipos de experimentos: sem pré-processamento dos dados, com normalização e com standardização, utilizando a biblioteca Scikit-learn.
+
 •	Métricas de avaliação Erro Absoluto Médio e Raiz do Erro Médio Quadrático.
+
 •	Gráficos para visualização e análise com Matplotlib.
 
 O segundo trabalho consiste em utilizar algoritmos de regressão, ensemble learning e rede neural.
