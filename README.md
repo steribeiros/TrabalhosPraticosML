@@ -16,9 +16,15 @@ O segundo trabalho consiste em utilizar algoritmos de regressão, ensemble learn
 Tecnologias: Python, Pandas, Numpy, Matplotlib, Scikit-learn
 
 •	Dataset SFO Air Traffic Passenger and Cargo Statistics | https://www.kaggle.com/rajsengo/sfo-air-traffic-passenger-and-cargo-statistics
+
 •	Teste de redução de dimensionalidade com PCA nos dados.
+
 •	Pipeline e Grid Search com Scikit-learn.
+
 •	Algoritmos KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, Perceptron, Multi-layer Perceptron da biblioteca Scikit-learn.
+
 •	Métricas de avaliação.	
+
 •	Gráficos para análise e visualização dos resultados com Matplotlib.	
+
 
